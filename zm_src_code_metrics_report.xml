@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<zm_src_code_metrics_report>
+    <project_info>
+        <project_name> Test_Project </project_name>
+    </project_info>
+    <project_files>
+        <file>
+            <file_name> TEST\CWE401_Memory_Leak__new_int64_t_16.cpp </file_name>
+            <file_language> cpp </file_language>
+            <file_modules>
+                <module>
+                    <module_name>  </module_name>
+                    <module_metrics> 
+                        <loc> 
+                            <physic_lines> 135 </physic_lines>
+                            <empty_lines> 18 </empty_lines>
+                            <lines_of_comments> 0 </lines_of_comments>
+                            <lines_of_program> 117 </lines_of_program>
+                        </loc> 
+                        <mccab> 
+                            <cyclomatic_complexity> 27 </cyclomatic_complexity>
+                        </mccab> 
+                        <halstead> 
+                            <n1> 28 </n1>
+                            <n2> 142 </n2>
+                            <N1> 289 </N1>
+                            <N2> 316 </N2>
+                            <n> 170 </n>
+                            <N> 605 </N>
+                            <N_> 1149.87 </N_>
+                            <V> 4482.68 </V>
+                            <D> 28 </D>
+                            <E> 125515 </E>
+                            <T> 6973.06 </T>
+                            <B> 0.000333333 </B>
+                            <B_> 1.49423 </B_>
+                        </halstead> 
+                    </module_metrics> 
+                </module>
+            </file_modules>
+            <file_metrics> 
+                <loc> 
+                    <physic_lines> 135 </physic_lines>
+                    <empty_lines> 18 </empty_lines>
+                    <lines_of_comments> 0 </lines_of_comments>
+                    <lines_of_program> 117 </lines_of_program>
+                </loc> 
+                <mccab> 
+                    <cyclomatic_complexity> 27 </cyclomatic_complexity>
+                </mccab> 
+                <halstead> 
+                    <n1> 28 </n1>
+                    <n2> 142 </n2>
+                    <N1> 289 </N1>
+                    <N2> 316 </N2>
+                    <n> 170 </n>
+                    <N> 605 </N>
+                    <N_> 1149.87 </N_>
+                    <V> 4482.68 </V>
+                    <D> 28 </D>
+                    <E> 125515 </E>
+                    <T> 6973.06 </T>
+                    <B> 0.000333333 </B>
+                    <B_> 1.49423 </B_>
+                 </halstead> 
+            </file_metrics> 
+        </file>
+        <file>
+            <file_name> TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_connect_socket_72a.cpp </file_name>
+            <file_language> cpp </file_language>
+            <file_modules>
+                <module>
+                    <module_name>  </module_name>
+                    <module_metrics> 
+                        <loc> 
+                            <physic_lines> 255 </physic_lines>
+                            <empty_lines> 22 </empty_lines>
+                            <lines_of_comments> 0 </lines_of_comments>
+                            <lines_of_program> 233 </lines_of_program>
+                        </loc> 
+                        <mccab> 
+                            <cyclomatic_complexity> 52 </cyclomatic_complexity>
+                        </mccab> 
+                        <halstead> 
+                            <n1> 34 </n1>
+                            <n2> 208 </n2>
+                            <N1> 689 </N1>
+                            <N2> 651 </N2>
+                            <n> 242 </n>
+                            <N> 1340 </N>
+                            <N_> 1774.67 </N_>
+                            <V> 10611.3 </V>
+                            <D> 51 </D>
+                            <E> 541175 </E>
+                            <T> 30065.3 </T>
+                            <B> 0.000333333 </B>
+                            <B_> 3.53709 </B_>
+                        </halstead> 
+                    </module_metrics> 
+                </module>
+            </file_modules>
+            <file_metrics> 
+                <loc> 
+                    <physic_lines> 255 </physic_lines>
+                    <empty_lines> 22 </empty_lines>
+                    <lines_of_comments> 0 </lines_of_comments>
+                    <lines_of_program> 233 </lines_of_program>
+                </loc> 
+                <mccab> 
+                    <cyclomatic_complexity> 52 </cyclomatic_complexity>
+                </mccab> 
+                <halstead> 
+                    <n1> 34 </n1>
+                    <n2> 208 </n2>
+                    <N1> 689 </N1>
+                    <N2> 651 </N2>
+                    <n> 242 </n>
+                    <N> 1340 </N>
+                    <N_> 1774.67 </N_>
+                    <V> 10611.3 </V>
+                    <D> 51 </D>
+                    <E> 541175 </E>
+                    <T> 30065.3 </T>
+                    <B> 0.000333333 </B>
+                    <B_> 3.53709 </B_>
+                 </halstead> 
+            </file_metrics> 
+        </file>
+        <file>
+            <file_name> TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_connect_socket_72b.cpp </file_name>
+            <file_language> cpp </file_language>
+            <file_modules>
+                <module>
+                    <module_name>  </module_name>
+                    <module_metrics> 
+                        <loc> 
+                            <physic_lines> 74 </physic_lines>
+                            <empty_lines> 13 </empty_lines>
+                            <lines_of_comments> 0 </lines_of_comments>
+                            <lines_of_program> 61 </lines_of_program>
+                        </loc> 
+                        <mccab> 
+                            <cyclomatic_complexity> 10 </cyclomatic_complexity>
+                        </mccab> 
+                        <halstead> 
+                            <n1> 24 </n1>
+                            <n2> 109 </n2>
+                            <N1> 163 </N1>
+                            <N2> 199 </N2>
+                            <n> 133 </n>
+                            <N> 362 </N>
+                            <N_> 847.771 </N_>
+                            <V> 2554.01 </V>
+                            <D> 12 </D>
+                            <E> 30648.1 </E>
+                            <T> 1702.67 </T>
+                            <B> 0.000333333 </B>
+                            <B_> 0.851337 </B_>
+                        </halstead> 
+                    </module_metrics> 
+                </module>
+            </file_modules>
+            <file_metrics> 
+                <loc> 
+                    <physic_lines> 74 </physic_lines>
+                    <empty_lines> 13 </empty_lines>
+                    <lines_of_comments> 0 </lines_of_comments>
+                    <lines_of_program> 61 </lines_of_program>
+                </loc> 
+                <mccab> 
+                    <cyclomatic_complexity> 10 </cyclomatic_complexity>
+                </mccab> 
+                <halstead> 
+                    <n1> 24 </n1>
+                    <n2> 109 </n2>
+                    <N1> 163 </N1>
+                    <N2> 199 </N2>
+                    <n> 133 </n>
+                    <N> 362 </N>
+                    <N_> 847.771 </N_>
+                    <V> 2554.01 </V>
+                    <D> 12 </D>
+                    <E> 30648.1 </E>
+                    <T> 1702.67 </T>
+                    <B> 0.000333333 </B>
+                    <B_> 0.851337 </B_>
+                 </halstead> 
+            </file_metrics> 
+        </file>
+        <file>
+            <file_name> TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_console_33.cpp </file_name>
+            <file_language> cpp </file_language>
+            <file_modules>
+                <module>
+                    <module_name>  </module_name>
+                    <module_metrics> 
+                        <loc> 
+                            <physic_lines> 164 </physic_lines>
+                            <empty_lines> 17 </empty_lines>
+                            <lines_of_comments> 0 </lines_of_comments>
+                            <lines_of_program> 147 </lines_of_program>
+                        </loc> 
+                        <mccab> 
+                            <cyclomatic_complexity> 30 </cyclomatic_complexity>
+                        </mccab> 
+                        <halstead> 
+                            <n1> 33 </n1>
+                            <n2> 167 </n2>
+                            <N1> 419 </N1>
+                            <N2> 440 </N2>
+                            <n> 200 </n>
+                            <N> 859 </N>
+                            <N_> 1399.54 </N_>
+                            <V> 6566.07 </V>
+                            <D> 32 </D>
+                            <E> 210114 </E>
+                            <T> 11673 </T>
+                            <B> 0.000333333 </B>
+                            <B_> 2.18869 </B_>
+                        </halstead> 
+                    </module_metrics> 
+                </module>
+            </file_modules>
+            <file_metrics> 
+                <loc> 
+                    <physic_lines> 164 </physic_lines>
+                    <empty_lines> 17 </empty_lines>
+                    <lines_of_comments> 0 </lines_of_comments>
+                    <lines_of_program> 147 </lines_of_program>
+                </loc> 
+                <mccab> 
+                    <cyclomatic_complexity> 30 </cyclomatic_complexity>
+                </mccab> 
+                <halstead> 
+                    <n1> 33 </n1>
+                    <n2> 167 </n2>
+                    <N1> 419 </N1>
+                    <N2> 440 </N2>
+                    <n> 200 </n>
+                    <N> 859 </N>
+                    <N_> 1399.54 </N_>
+                    <V> 6566.07 </V>
+                    <D> 32 </D>
+                    <E> 210114 </E>
+                    <T> 11673 </T>
+                    <B> 0.000333333 </B>
+                    <B_> 2.18869 </B_>
+                 </halstead> 
+            </file_metrics> 
+        </file>
+        <file>
+            <file_name> TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_environment_01.c </file_name>
+            <file_language> c </file_language>
+            <file_modules>
+                <module>
+                    <module_name>  </module_name>
+                    <module_metrics> 
+                        <loc> 
+                            <physic_lines> 130 </physic_lines>
+                            <empty_lines> 17 </empty_lines>
+                            <lines_of_comments> 0 </lines_of_comments>
+                            <lines_of_program> 113 </lines_of_program>
+                        </loc> 
+                        <mccab> 
+                            <cyclomatic_complexity> 22 </cyclomatic_complexity>
+                        </mccab> 
+                        <halstead> 
+                            <n1> 29 </n1>
+                            <n2> 146 </n2>
+                            <N1> 293 </N1>
+                            <N2> 360 </N2>
+                            <n> 175 </n>
+                            <N> 653 </N>
+                            <N_> 1190.6 </N_>
+                            <V> 4865.64 </V>
+                            <D> 28 </D>
+                            <E> 136238 </E>
+                            <T> 7568.77 </T>
+                            <B> 0.000333333 </B>
+                            <B_> 1.62188 </B_>
+                        </halstead> 
+                    </module_metrics> 
+                </module>
+            </file_modules>
+            <file_metrics> 
+                <loc> 
+                    <physic_lines> 130 </physic_lines>
+                    <empty_lines> 17 </empty_lines>
+                    <lines_of_comments> 0 </lines_of_comments>
+                    <lines_of_program> 113 </lines_of_program>
+                </loc> 
+                <mccab> 
+                    <cyclomatic_complexity> 22 </cyclomatic_complexity>
+                </mccab> 
+                <halstead> 
+                    <n1> 29 </n1>
+                    <n2> 146 </n2>
+                    <N1> 293 </N1>
+                    <N2> 360 </N2>
+                    <n> 175 </n>
+                    <N> 653 </N>
+                    <N_> 1190.6 </N_>
+                    <V> 4865.64 </V>
+                    <D> 28 </D>
+                    <E> 136238 </E>
+                    <T> 7568.77 </T>
+                    <B> 0.000333333 </B>
+                    <B_> 1.62188 </B_>
+                 </halstead> 
+            </file_metrics> 
+        </file>
+    </project_files>
+    <project_metrics> 
+        <loc> 
+            <physic_lines> 758 </physic_lines>
+            <empty_lines> 87 </empty_lines>
+            <lines_of_comments> 0 </lines_of_comments>
+            <lines_of_program> 671 </lines_of_program>
+        </loc> 
+        <mccab> 
+            <cyclomatic_complexity> 141 </cyclomatic_complexity>
+        </mccab> 
+        <halstead> 
+            <n1> 148 </n1>
+            <n2> 772 </n2>
+            <N1> 1853 </N1>
+            <N2> 1966 </N2>
+            <n> 920 </n>
+            <N> 3819 </N>
+            <N_> 6362.45 </N_>
+            <V> 29079.7 </V>
+            <D> 151 </D>
+            <E> 1.04369e+06 </E>
+            <T> 57982.8 </T>
+            <B> 0.00166667 </B>
+            <B_> 9.69323 </B_>
+        </halstead> 
+    </project_metrics> 
+</zm_src_code_metrics_report>

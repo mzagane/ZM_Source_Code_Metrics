@@ -1,0 +1,379 @@
+**************************************************
+* ZM Source Code Metric V3.xx.04.2017            *
+**************************************************
+
+Calculating the code metrics for the Project in Directory : 
+TEST\
+Loading Language parameters from : 
+D:\ZM\Doctorat\Mon_Travail\Applications\ZM_Source_Code_Metrics\languages\cpp.lng
+................................. OK
+**************************************************
+* Project files (Modules)                        *
+**************************************************
+
+Number of files (Module) = 5
+
+----------------------------------------------------
+- File 1 : TEST\CWE401_Memory_Leak__new_int64_t_16.cpp
+----------------------------------------------------
+     Number of functions = 1
+
+     ----------------------------------------------------
+     - Function 1 : 
+     ----------------------------------------------------
+       McCab Metrics :
+
+      - The Mc Cabe number (cyclomatic complexity) = 27
+
+
+       Halstead metrics:
+
+       The number of distinct operators : n1 = 28
+       The number of distinct operands  : n2 = 142
+       The total number of operators    : N1 = 289
+       The total number of operands     : N2 = 316
+       The program vocabulary           : n  = 170
+       The program length               : N  = 605
+       The Calculated program length    : N' = 1149.87
+       The program Volume               : V  = 4482.68
+       The program Difficulty           : D  = 28
+       The program Effort               : E  = 125515
+       The Time required to program     : T  = 6973.06
+       The Number of delivered Bugs 1   : B  = 0.000333333
+       The Number of delivered Bugs 2   : B' = 1.49423
+
+     ----------------------------------------------------
+     - END Function 1
+     ----------------------------------------------------
+
+
+       Metrics of the file :
+
+       Line Of Code metrics (LOC) :
+
+       - the number of physic lines      is : 135
+       - the number of empty lines       is : 18
+       - the number of lines of comments is : 0
+       - the number of lines of program  is : 117
+
+       McCab Metrics of the file
+
+      - The McCabe number (cyclomatic complexity) = 27
+
+       Halstead metrics of the file :
+
+       The number of distinct operators : n1 = 28
+       The number of distinct operands  : n2 = 142
+       The total number of operators    : N1 = 289
+       The total number of operands     : N2 = 316
+       The program vocabulary           : n  = 170
+       The program length               : N  = 605
+       The Calculated program length    : N' = 1149.87
+       The program Volume               : V  = 4482.68
+       The program Difficulty           : D  = 28
+       The program Effort               : E  = 125515
+       The Time required to program     : T  = 6973.06
+       The Number of delivered Bugs 1   : B  = 0.000333333
+       The Number of delivered Bugs 2   : B' = 1.49423
+----------------------------------------------------
+- END File 1 : TEST\CWE401_Memory_Leak__new_int64_t_16.cpp
+----------------------------------------------------
+
+----------------------------------------------------
+- File 2 : TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_connect_socket_72a.cpp
+----------------------------------------------------
+     Number of functions = 1
+
+     ----------------------------------------------------
+     - Function 1 : 
+     ----------------------------------------------------
+       McCab Metrics :
+
+      - The Mc Cabe number (cyclomatic complexity) = 52
+
+
+       Halstead metrics:
+
+       The number of distinct operators : n1 = 34
+       The number of distinct operands  : n2 = 208
+       The total number of operators    : N1 = 689
+       The total number of operands     : N2 = 651
+       The program vocabulary           : n  = 242
+       The program length               : N  = 1340
+       The Calculated program length    : N' = 1774.67
+       The program Volume               : V  = 10611.3
+       The program Difficulty           : D  = 51
+       The program Effort               : E  = 541175
+       The Time required to program     : T  = 30065.3
+       The Number of delivered Bugs 1   : B  = 0.000333333
+       The Number of delivered Bugs 2   : B' = 3.53709
+
+     ----------------------------------------------------
+     - END Function 1
+     ----------------------------------------------------
+
+
+       Metrics of the file :
+
+       Line Of Code metrics (LOC) :
+
+       - the number of physic lines      is : 255
+       - the number of empty lines       is : 22
+       - the number of lines of comments is : 0
+       - the number of lines of program  is : 233
+
+       McCab Metrics of the file
+
+      - The McCabe number (cyclomatic complexity) = 52
+
+       Halstead metrics of the file :
+
+       The number of distinct operators : n1 = 34
+       The number of distinct operands  : n2 = 208
+       The total number of operators    : N1 = 689
+       The total number of operands     : N2 = 651
+       The program vocabulary           : n  = 242
+       The program length               : N  = 1340
+       The Calculated program length    : N' = 1774.67
+       The program Volume               : V  = 10611.3
+       The program Difficulty           : D  = 51
+       The program Effort               : E  = 541175
+       The Time required to program     : T  = 30065.3
+       The Number of delivered Bugs 1   : B  = 0.000333333
+       The Number of delivered Bugs 2   : B' = 3.53709
+----------------------------------------------------
+- END File 2 : TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_connect_socket_72a.cpp
+----------------------------------------------------
+
+----------------------------------------------------
+- File 3 : TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_connect_socket_72b.cpp
+----------------------------------------------------
+     Number of functions = 1
+
+     ----------------------------------------------------
+     - Function 1 : 
+     ----------------------------------------------------
+       McCab Metrics :
+
+      - The Mc Cabe number (cyclomatic complexity) = 10
+
+
+       Halstead metrics:
+
+       The number of distinct operators : n1 = 24
+       The number of distinct operands  : n2 = 109
+       The total number of operators    : N1 = 163
+       The total number of operands     : N2 = 199
+       The program vocabulary           : n  = 133
+       The program length               : N  = 362
+       The Calculated program length    : N' = 847.771
+       The program Volume               : V  = 2554.01
+       The program Difficulty           : D  = 12
+       The program Effort               : E  = 30648.1
+       The Time required to program     : T  = 1702.67
+       The Number of delivered Bugs 1   : B  = 0.000333333
+       The Number of delivered Bugs 2   : B' = 0.851337
+
+     ----------------------------------------------------
+     - END Function 1
+     ----------------------------------------------------
+
+
+       Metrics of the file :
+
+       Line Of Code metrics (LOC) :
+
+       - the number of physic lines      is : 74
+       - the number of empty lines       is : 13
+       - the number of lines of comments is : 0
+       - the number of lines of program  is : 61
+
+       McCab Metrics of the file
+
+      - The McCabe number (cyclomatic complexity) = 10
+
+       Halstead metrics of the file :
+
+       The number of distinct operators : n1 = 24
+       The number of distinct operands  : n2 = 109
+       The total number of operators    : N1 = 163
+       The total number of operands     : N2 = 199
+       The program vocabulary           : n  = 133
+       The program length               : N  = 362
+       The Calculated program length    : N' = 847.771
+       The program Volume               : V  = 2554.01
+       The program Difficulty           : D  = 12
+       The program Effort               : E  = 30648.1
+       The Time required to program     : T  = 1702.67
+       The Number of delivered Bugs 1   : B  = 0.000333333
+       The Number of delivered Bugs 2   : B' = 0.851337
+----------------------------------------------------
+- END File 3 : TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_connect_socket_72b.cpp
+----------------------------------------------------
+
+----------------------------------------------------
+- File 4 : TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_console_33.cpp
+----------------------------------------------------
+     Number of functions = 1
+
+     ----------------------------------------------------
+     - Function 1 : 
+     ----------------------------------------------------
+       McCab Metrics :
+
+      - The Mc Cabe number (cyclomatic complexity) = 30
+
+
+       Halstead metrics:
+
+       The number of distinct operators : n1 = 33
+       The number of distinct operands  : n2 = 167
+       The total number of operators    : N1 = 419
+       The total number of operands     : N2 = 440
+       The program vocabulary           : n  = 200
+       The program length               : N  = 859
+       The Calculated program length    : N' = 1399.54
+       The program Volume               : V  = 6566.07
+       The program Difficulty           : D  = 32
+       The program Effort               : E  = 210114
+       The Time required to program     : T  = 11673
+       The Number of delivered Bugs 1   : B  = 0.000333333
+       The Number of delivered Bugs 2   : B' = 2.18869
+
+     ----------------------------------------------------
+     - END Function 1
+     ----------------------------------------------------
+
+
+       Metrics of the file :
+
+       Line Of Code metrics (LOC) :
+
+       - the number of physic lines      is : 164
+       - the number of empty lines       is : 17
+       - the number of lines of comments is : 0
+       - the number of lines of program  is : 147
+
+       McCab Metrics of the file
+
+      - The McCabe number (cyclomatic complexity) = 30
+
+       Halstead metrics of the file :
+
+       The number of distinct operators : n1 = 33
+       The number of distinct operands  : n2 = 167
+       The total number of operators    : N1 = 419
+       The total number of operands     : N2 = 440
+       The program vocabulary           : n  = 200
+       The program length               : N  = 859
+       The Calculated program length    : N' = 1399.54
+       The program Volume               : V  = 6566.07
+       The program Difficulty           : D  = 32
+       The program Effort               : E  = 210114
+       The Time required to program     : T  = 11673
+       The Number of delivered Bugs 1   : B  = 0.000333333
+       The Number of delivered Bugs 2   : B' = 2.18869
+----------------------------------------------------
+- END File 4 : TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_console_33.cpp
+----------------------------------------------------
+
+----------------------------------------------------
+- File 5 : TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_environment_01.c
+----------------------------------------------------
+     Number of functions = 1
+
+     ----------------------------------------------------
+     - Function 1 : 
+     ----------------------------------------------------
+       McCab Metrics :
+
+      - The Mc Cabe number (cyclomatic complexity) = 22
+
+
+       Halstead metrics:
+
+       The number of distinct operators : n1 = 29
+       The number of distinct operands  : n2 = 146
+       The total number of operators    : N1 = 293
+       The total number of operands     : N2 = 360
+       The program vocabulary           : n  = 175
+       The program length               : N  = 653
+       The Calculated program length    : N' = 1190.6
+       The program Volume               : V  = 4865.64
+       The program Difficulty           : D  = 28
+       The program Effort               : E  = 136238
+       The Time required to program     : T  = 7568.77
+       The Number of delivered Bugs 1   : B  = 0.000333333
+       The Number of delivered Bugs 2   : B' = 1.62188
+
+     ----------------------------------------------------
+     - END Function 1
+     ----------------------------------------------------
+
+
+       Metrics of the file :
+
+       Line Of Code metrics (LOC) :
+
+       - the number of physic lines      is : 130
+       - the number of empty lines       is : 17
+       - the number of lines of comments is : 0
+       - the number of lines of program  is : 113
+
+       McCab Metrics of the file
+
+      - The McCabe number (cyclomatic complexity) = 22
+
+       Halstead metrics of the file :
+
+       The number of distinct operators : n1 = 29
+       The number of distinct operands  : n2 = 146
+       The total number of operators    : N1 = 293
+       The total number of operands     : N2 = 360
+       The program vocabulary           : n  = 175
+       The program length               : N  = 653
+       The Calculated program length    : N' = 1190.6
+       The program Volume               : V  = 4865.64
+       The program Difficulty           : D  = 28
+       The program Effort               : E  = 136238
+       The Time required to program     : T  = 7568.77
+       The Number of delivered Bugs 1   : B  = 0.000333333
+       The Number of delivered Bugs 2   : B' = 1.62188
+----------------------------------------------------
+- END File 5 : TEST\CWE761_Free_Pointer_Not_at_Start_of_Buffer__char_environment_01.c
+----------------------------------------------------
+
+
+
+
+
+**************************************************
+* Metrics of the project                         *
+**************************************************
+
+Line Of Code metrics (LOC) :
+
+ - the number of physic lines      is : 758
+ - the number of empty lines       is : 87
+ - the number of lines of comments is : 0
+ - the number of lines of program  is : 671
+
+Cyclomatic complexity  VG():
+
+- the Mc Cabe number               is : 141
+
+Halstead metrics:
+
+The number of distinct operators : n1 = 148
+The number of distinct operands  : n2 = 772
+The total number of operators    : N1 = 1853
+The total number of operands     : N2 = 1966
+The program vocabulary           : n  = 920
+The program length               : N  = 3819
+The Calculated program length    : N' = 6362.45
+The program Volume               : V  = 29079.7
+The program Difficulty           : D  = 151
+The program Effort               : E  = 1.04369e+06
+The Time required to program     : T  = 57982.8
+The Number of delivered Bugs 1   : B  = 0.00166667
+The Number of delivered Bugs 2   : B' = 9.69323
