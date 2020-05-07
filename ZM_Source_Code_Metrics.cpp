@@ -71,7 +71,7 @@ int main() // the main function
         //Language = "java";
 
         //Win
-        Language_File_Name = "\\languages\\cpp.lng";
+        Language_File_Name = "languages\\cpp.lng";
         //Linux
         //Language_File_Name = "/media/DATA/ZM/Doctorat/Mon_Travail/Applications/ZM_Source_Code_Metrics/languages/" + Language + ".lng";
 
