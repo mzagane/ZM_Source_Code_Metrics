@@ -83,6 +83,7 @@ std::string Project::getLanguage(std::string File_Name)
 int Project::setProject_Files()
 {
     DIR *Directory;
+    DIR *TEMP;
     struct dirent *Dirent;
     std::string File_Name, Lang;
     unsigned int File_Number = 0;
@@ -92,7 +93,12 @@ int Project::setProject_Files()
     {
         while ((Dirent = readdir (Directory)) != NULL)
         {
-            if (Dirent->d_type != DT_DIR)
+            //if (Dirent->d_type != DT_DIR)
+            if ((TEMP = opendir(Dirent->d_name))) 
+            {
+                closedir(TEMP);
+            }
+            else
             {
                 File_Name = Dirent->d_name;
                 Lang = getLanguage(File_Name);
