@@ -67,11 +67,11 @@ int main() // the main function
         Log_File<< Project_Dir << std::endl;
 
         std::string Language_File_Name, Language;
-        Language = "cpp";
+        //Language = "cpp";
         //Language = "java";
 
         //Win
-        Language_File_Name = "D:\\ZM\\Doctorat\\Mon_Travail\\Applications\\ZM_Source_Code_Metrics\\languages\\" + Language + ".lng";
+        Language_File_Name = "\\languages\\cpp.lng";
         //Linux
         //Language_File_Name = "/media/DATA/ZM/Doctorat/Mon_Travail/Applications/ZM_Source_Code_Metrics/languages/" + Language + ".lng";
 
