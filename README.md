@@ -1,4 +1,4 @@
 # ZM_Source_Code_Metrics (debug version)
-ZM Src Code Metrics allows you to calculate several code metrics: LOC, McCab and Halstead. This tool is developed in C ++ (tested on Windows and Linux) and whose aim is to support several programming languages. It generates a global report (project metrics) and detailed by file in the form of an XML file.
+ZM Source Code Metrics calculates several code metrics, including lines of code (LOC), McCabe cyclomatic complexity, and Halstead metrics. This C++ tool (tested on Windows and Linux) aims to support multiple programming languages. It generates both a global project report and detailed per-file reports in XML format.
 
-This version works very well, but some optimizations and functionalities must be added.
+This version is functional, but further optimizations and features are planned.
